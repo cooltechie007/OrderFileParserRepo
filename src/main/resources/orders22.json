@@ -1,0 +1,13 @@
+[
+  {
+    "orderId": 32,
+    "amount": 2221.23,
+    "currency": "USD",
+    "comment": "order payment"
+  },
+  {
+    "orderId": 42,
+    "amount": "2221.24",
+    "currency": "EURō"
+  }
+]
